@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Aref+Ruqaa|Dekko|Inconsolata|Oxygen');
+header, footer {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#87e0fd+17,53cbf1+43,05abe0+78 */
+	background: #87e0fd; /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  #87e0fd 17%, #53cbf1 43%, #05abe0 78%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  #87e0fd 17%,#53cbf1 43%,#05abe0 78%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  #87e0fd 17%,#53cbf1 43%,#05abe0 78%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#05abe0',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	font-family: 'Amatic SC', cursive;
+}
+nav {
+	background-color: #222;
+}
+section, article {
+	padding-top: 10px;
+	background-color: #eee;
+}
+aside h2 {
+	font-family: 'Aref Ruqaa';
+	font-size: 48px;
+}
+aside ul {
+	font-family: 'Dekko';
+	font-size: 16px;
+}
+section h2 {
+	font-family: 'Oxygen';
+	font-size: 36px;
+}
+section p {
+	font-family: 'Inconsolata';
+	font-size: 18px;
+}
+img {
+	height: 100%;
+	width: 100%;
+}
+iframe {
+	padding: 20px;
+}
